@@ -1,4 +1,5 @@
-# Digit Recognition Kaggle with (0.99542 accuarcy on testset)
+# Digit Recognition Kaggle 
+##0.99542% accuarcy on test set
 ##Approach 
 I used a pre-trained VGG16 model and replaced the fully connected layers with untrained layers while freezing the fully convolutional layers.
 
